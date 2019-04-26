@@ -1,0 +1,3 @@
+tar -cf /backup_for_sp4_upgrade_etc.tar /etc
+tar -cf /backup_for_sp4_upgrade_opt_intellinx.tar /opt/intelllinx
+
